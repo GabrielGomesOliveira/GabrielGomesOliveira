@@ -1,7 +1,2 @@
-### Hi there 👋
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println(" hello, world👋 ");
-    }
-} 
-##TESTE
+### Hello World
+This is my GitHub profile, welcome! :D
