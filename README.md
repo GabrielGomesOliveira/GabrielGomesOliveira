@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/GabrielGomesOliveira/GabrielGomesOliveira/blob/main/BannerGithub.png)](https://github.com/GabrielGomesOliveira)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=50&size=15&pause=1000&color=09F76A&random=false&width=435&lines=Hello%2C+world)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=50&size=15&pause=1000&color=09F76A&random=false&width=435&lines=Hello%2C+world)
 
 This is my GitHub profile, welcome! :D
 
